@@ -21,7 +21,7 @@ b[ps][bt++]=a[j][i];
 ps++;
 bt=0;
 }
-for(int i=0;i<=s;i++)
+for(int i=1;i<=s;i++)
 {
 for(int j=0;j<n;j++)
 {
